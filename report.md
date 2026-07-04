@@ -9,6 +9,7 @@ The objective of this project is to analyze how market sentiment influences cryp
 - Fear & Greed Index
 - Historical Trading Dataset
 
+
 ## Data Preparation
 
 - Removed unmatched records
